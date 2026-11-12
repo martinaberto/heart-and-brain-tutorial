@@ -28,7 +28,7 @@ You need Python 3.10 or newer. With pip in your own Python 3.10+ environment:
  
 ```bash
 git clone https://github.com/martinaberto/heart-and-brain-tutorial.git
-cd <repository>
+cd heart-and-brain-tutorial
 pip install -r requirements.txt
 jupyter lab
  ```
@@ -48,7 +48,7 @@ The notebook works on a saved recording. To stream data live from BrainAccess de
 
 ## Licence
  
-- **Code** in this repository is licensed under the [Apache License 2.0](LICENSE).
+- **Code** in this repository is licensed under the [MIT License](LICENSE).
 - **Text, figures and the example data** in `data/` are licensed under [Creative Commons Attribution 4.0 (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). You are free to share and adapt them, as long as you credit BrainAccess.
 
 ## Contact
