@@ -1,0 +1,7 @@
+brainaccess>=4.0
+brainaccess-board>=1.0.3
+mne>=1.8
+matplotlib>=3.8
+scipy>=1.11
+jupyterlab>=4
+pylsl>=1.16
