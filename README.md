@@ -45,12 +45,12 @@ The notebook works on a saved recording. To stream data live from BrainAccess de
  
 - Park, H.-D., & Blanke, O. (2019). Heartbeat-evoked cortical responses: Underlying mechanisms, functional roles, and methodological considerations. *NeuroImage, 197*, 502–511.
 - Task Force of the European Society of Cardiology and the North American Society of Pacing and Electrophysiology (1996). Heart rate variability: Standards of measurement, physiological interpretation, and clinical use. *Circulation, 93*(5), 1043–1065.
-- 
+
 ## Licence
  
 - **Code** in this repository is licensed under the [Apache License 2.0](LICENSE).
 - **Text, figures and the example data** in `data/` are licensed under [Creative Commons Attribution 4.0 (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). You are free to share and adapt them, as long as you credit BrainAccess.
-- 
+
 ## Contact
  
 Questions or feedback? Open an issue or contact us at brainaccess@neurotechnology.com.
